@@ -3,35 +3,35 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "Relecloud Managed Services"
+            "value": "Seidor Azure Managed Services"
         },
         "mspOfferDescription": {
-            "value": "Relecloud Managed Services"
+            "value": "Seidor Azure Managed Services"
         },
         "managedByTenantId": {
             "value": "<insert managing tenant id>"
         },
         "authorizations": {
             "value": [
-                { 
-                    "principalId": "ee8f6d35-15f2-4252-b1b8-591358e8a244", 
-                    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-                    "principalIdDisplayName": "PIM_Group" 
-                }, 
-                { 
-                    "principalId": "ee8f6d35-15f2-4252-b1b8-591358e8a244", 
-                    "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
-                    "principalIdDisplayName": "PIM_Group"
-                    
+                                {
+                    "principalId": "73177bb4-6da8-49cb-863e-7b3f81475cec",
+                    "principalIdDisplayName": "Azure L2+ Support By Seidor",
+                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
                 },
                 {
-                    "principalId": "ee8f6d35-15f2-4252-b1b8-591358e8a244",
-                    "principalIdDisplayName": "PIM_Group",
-                    "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
-                    "delegatedRoleDefinitionIds": [
-                        "b24988ac-6180-42a0-ab88-20f7382dd24c",
-                        "92aaf0da-9dab-42b6-94a3-d43ce8d16293"
-                    ]
+                    "principalId": "67ecad3b-10ef-4cde-9954-099f93708d28",
+                    "principalIdDisplayName": "Azure L1 Support By Seidor",
+                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+                },
+                {
+                    "principalId": "73177bb4-6da8-49cb-863e-7b3f81475cec",
+                    "principalIdDisplayName": "Azure L2+ Support By Seidor",
+                    "roleDefinitionId": "fe930be7-5e62-47db-91af-98c3a49a38b1"
+                },
+                {
+                    "principalId": "67ecad3b-10ef-4cde-9954-099f93708d28",
+                    "principalIdDisplayName": "Azure L1 Support By Seidor",
+                    "roleDefinitionId": "fe930be7-5e62-47db-91af-98c3a49a38b1c"
                 }
                     ]
                 }                
