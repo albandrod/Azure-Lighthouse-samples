@@ -7,7 +7,7 @@
             "metadata": {
                 "description": "Specify a unique name for your offer"
             },
-            "defaultValue": "<to be filled out by MSP> Specify a title for your offer"
+            "defaultValue": "Seidor Azure Managed Services"
 
         },
         "mspOfferDescription": {
@@ -15,7 +15,7 @@
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "<to be filled out by MSP> Provide a brief description of your offer"
+            "defaultValue": "Seidor Azure Managed Services"
         },
         "managedByTenantId": {
             "type": "string",
