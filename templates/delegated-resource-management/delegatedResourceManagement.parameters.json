@@ -17,11 +17,6 @@
                     "principalId": "73177bb4-6da8-49cb-863e-7b3f81475cec",
                     "principalIdDisplayName": "Azure L2+ Support By Seidor",
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
-                },
-                {
-                    "principalId": "67ecad3b-10ef-4cde-9954-099f93708d28",
-                    "principalIdDisplayName": "Azure L1 Support By Seidor",
-                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
                 }
                     ]
                 }                
